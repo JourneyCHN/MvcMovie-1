@@ -1,4 +1,4 @@
 # MvcMovie
-ASP.NET CORE MVC + LocalDB demo
+ASP.NET CORE 2.2 MVC demo + LocalDB +VS2019 
 
 IceDrugs is sb!wahahaha...
