@@ -9,6 +9,7 @@ namespace MvcMovie.Models
 {
     public class Movie
     {
+        //genxin
         public int Id { get; set; }
 
         [StringLength(60,MinimumLength =3)]
